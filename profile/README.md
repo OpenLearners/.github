@@ -1,12 +1,11 @@
-## Hi there 👋
+## Welcome to Open Learner! 👋
 
-<!--
+We are a small group of students passionate about programming and eager to share our learning journey with the community. Our main project is **TensorSANN (Super Awesome Neural Network)**, a machine learning library built from the ground up in C++ — with minimal reliance on external libraries — for the learning experience. 
 
-**Here are some ideas to get you started:**
+As we dive into building **TensorSANN**, we’re documenting everything along the way through tutorials and insights, so others can join us on this exciting adventure. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Everything is a **work in progress** (WIP), but we’re excited to share our progress and collaborate with the community!
+
+Check out our prospective website here: [Learn-TensorSANN](https://openlearners.github.io/Learn-TensorSANN/)
+
+Stay tuned for updates! 🚀
